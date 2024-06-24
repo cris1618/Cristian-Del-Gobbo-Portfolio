@@ -41,7 +41,7 @@ To enhance the precision of the model, I utilized the TikToken encoding method i
 -Improved skills in optimizing machine learning models for resource-constrained environments.
 
 **Code:**
-[View the code on GitHub](link-to-github-repository)
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/44cc270434af585f9141b71d5ff38e590beb14e1/NanoGPT/ShakeTikToken.py)
 
 ### Project 2: VizBeuty: Python Package for Enhanced Visualizations 
 **Description:**
