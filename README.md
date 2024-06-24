@@ -66,7 +66,7 @@ VizBeauty is a sophisticated Python toolkit designed to enhance data visualizati
 These functions collectively empower users to perform comprehensive data analysis and visualization, leading to actionable insights and informed decision-making.
 
 **Code:**
-[View the code on GitHub](link-to-github-repository)
+[View the code on GitHub](https://github.com/cris1618/VizBeauty-)
 
 ### Project 3: Ocean Vision (Python)
 **Description:**
