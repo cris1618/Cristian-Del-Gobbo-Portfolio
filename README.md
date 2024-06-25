@@ -120,7 +120,25 @@ While the project does not draw definitive conclusions due to potential inaccura
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/InsightVisualizer/Notebook.ipynb)
 
 ### Project 5: IQ and Income: Unraveling Correlations and Thresholds (Python)
+**Description:**
+This project focuses on exploring correlations and analyzing the statistical significance of key socio-economic variables. Specifically, it investigates the relationship between intelligence quotient (IQ) and average income, alongside the impact of education expenditure and average temperature on income levels.
 
+**Tools and Technologies Used:**
+- Python: Core programming language for development.
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical operations.
+- Matplotlib: For creating static and interactive visualizations.
+- Seaborn: For statistical data visualization.
+- SciPy: For advanced statistical computations.
+
+**Key Insights and Outcomes:**
+- Positive correlation (0.56) between IQ and average income, suggesting an association between intelligence and income levels.
+- Stronger correlation (0.86) between education expenditure and average income, highlighting the significant impact of investments in education on income.
+- Negative correlations (-0.44 between average temperature and average income, and -0.63 between IQ and average temperature), indicating potential influences of
+environmental factors on income levels. These correlations underscore associations rather than causal relationships, providing valuable insights into socio-economic dynamics.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/IQ-Income/notebook.ipynb)
 
 ### Project 6: Mapping the Adoption Patterns of Battery Electric and Plug-in Hybrid Vehicles in Urban, Suburban, and Rural Areas of Washington (Python)
 
