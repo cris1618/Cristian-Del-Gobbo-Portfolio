@@ -141,7 +141,37 @@ environmental factors on income levels. These correlations underscore associatio
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/IQ-Income/notebook.ipynb)
 
 ### Project 6: Mapping the Adoption Patterns of Battery Electric and Plug-in Hybrid Vehicles in Urban, Suburban, and Rural Areas of Washington (Python)
+**Description:**
+This project analyzes the geographic distribution of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) in Washington State. The objective is to determine if there is a significant difference in the adoption patterns of these vehicles across urban, suburban, and rural areas. The hypothesis is that BEVs are more prevalent in urban areas, while PHEVs are more common in suburban and rural regions.
 
+**Tools and Technologies Used:**
+- Programming Language: Python
+- Pandas: For data manipulation and analysis.
+- Matplotlib and Seaborn: For data visualization.
+- Scipy: For conducting statistical tests.
+  
+**Data Sources:**
+- Electric Vehicle registrations data.
+- Demographic data for Washington State.
+  
+**Key Insights and Outcomes:**
+- Distribution of EVs: The analysis revealed a significant difference in the distribution of BEVs and PHEVs across different area types. BEVs are more prevalent in urban areas, while PHEVs are more common in suburban and rural areas.
+- Statistical Analysis:
+  Chi-Square Test: Conducted to determine if there is a statistically significant difference in the distribution of BEVs and PHEVs across area types. The chi-square test results indicated a significant difference (χ² = 829.25, p < 0.001).
+- Proportion Comparison: Compared the proportions of BEVs and PHEVs in urban, suburban, and rural areas to provide insights into their relative frequencies.
+  
+**Implications for the Field:**
+- Infrastructure Planning: Helps in planning and optimizing charging infrastructure to meet the needs of different regions.
+- Policy Development: Provides insights for policymakers to design targeted incentives and regulations to encourage EV adoption.
+- Market Strategies: Allows automotive companies to tailor their marketing and distribution strategies based on regional preferences for BEVs and PHEVs.
+  
+**Future Possibilities:**
+- Further research on factors driving distribution patterns, such as socio-economic factors and local policies.
+- Enhanced data collection for deeper insights.
+- Integration with smart grids for energy optimization and grid reliability.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/tree/main/EVDistribution)
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
