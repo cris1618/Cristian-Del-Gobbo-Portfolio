@@ -83,9 +83,13 @@ VizBeauty is a sophisticated Python toolkit designed to enhance data visualizati
   
 **Key Insights and Outcomes:**
 - Descriptive Statistics: Function to print detailed descriptive statistics, providing insights into the distribution and characteristics of datasets.
+  
 - Bar Plot with Annotations: Customizable bar plot function with annotations and average value indicators, enhancing data interpretability.
+  
 - Pearson Correlation: Function to compute and determine the statistical significance of Pearson correlation coefficients, aiding in the identification of relationships between variables.
+  
 - Scatter Plot with Regression Line: Advanced scatter plot function that includes regression lines and supports additional parameters such as hue and size for deeper analysis.
+  
 - Hyperparameter Visualization: Function to visualize the impact of hyperparameters on model performance, facilitating more effective model tuning.
   
 These functions collectively empower users to perform comprehensive data analysis and visualization, leading to actionable insights and informed decision-making.
@@ -109,9 +113,13 @@ This research project, conducted in collaboration with one of my professors and 
   
 **Key Insights and Outcomes:**
 - Successfully implemented and trained a Faster R-CNN model tailored for plankton detection and classification.
+  
 - Achieved initial baseline performance metrics, indicating the potential for high-accuracy classification with further training and data augmentation.
+  
 - Demonstrated the effectiveness of transfer learning by utilizing a pre-trained ResNet-50 backbone, significantly reducing the training time and computational resources required.
+  
 - Highlighted the importance of data preprocessing and augmentation in enhancing model performance for small and imbalanced datasets.
+  
 - Provided valuable insights into the application of deep learning techniques in marine biology, paving the way for future research and development in automated species identification.
 
   **Code**: 
@@ -136,9 +144,13 @@ While the project does not draw definitive conclusions due to potential inaccura
   
 **Key Insights and Outcomes:**
 - Data Merging and Cleaning: Combined two datasets to create a comprehensive view of socio-economic factors.
+  
 - Descriptive Statistics and Visualizations: Generated detailed statistics and visualizations to understand data distributions and identify outliers.
+  
 - Correlation Analysis: Discovered strong correlations between life expectancy, GDP per capita, and happiness score, and minimal correlations involving suicide rates.
+  
 - Machine Learning Models: Developed models to predict life expectancy, GDP per capita, and happiness score, achieving promising performance metrics despite the limited data.
+  
 - Feature Importance Analysis: Identified key features impacting the prediction models, highlighting the significance of happiness score, fertility rate, and GDP per capita in influencing life expectancy and happiness.
 
 **Code:**
@@ -158,7 +170,9 @@ This project focuses on exploring correlations and analyzing the statistical sig
 
 **Key Insights and Outcomes:**
 - Positive correlation (0.56) between IQ and average income, suggesting an association between intelligence and income levels.
+  
 - Stronger correlation (0.86) between education expenditure and average income, highlighting the significant impact of investments in education on income.
+  
 - Negative correlations (-0.44 between average temperature and average income, and -0.63 between IQ and average temperature), indicating potential influences of
 environmental factors on income levels. These correlations underscore associations rather than causal relationships, providing valuable insights into socio-economic dynamics.
 
@@ -181,8 +195,10 @@ This project analyzes the geographic distribution of Battery Electric Vehicles (
   
 **Key Insights and Outcomes:**
 - Distribution of EVs: The analysis revealed a significant difference in the distribution of BEVs and PHEVs across different area types. BEVs are more prevalent in urban areas, while PHEVs are more common in suburban and rural areas.
+  
 - Statistical Analysis:
-  Chi-Square Test: Conducted to determine if there is a statistically significant difference in the distribution of BEVs and PHEVs across area types. The chi-square test results indicated a significant difference (χ² = 829.25, p < 0.001).
+    - Chi-Square Test: Conducted to determine if there is a statistically significant difference in the distribution of BEVs and PHEVs across area types. The chi-square test results indicated a significant difference (χ² = 829.25, p < 0.001).
+      
 - Proportion Comparison: Compared the proportions of BEVs and PHEVs in urban, suburban, and rural areas to provide insights into their relative frequencies.
   
 **Implications for the Field:**
@@ -271,9 +287,13 @@ This project focuses on predicting the number of days a customer will rent a DVD
 
 **Key Insights and Outcomes:**
 - Conducted feature engineering to create meaningful variables, such as rental length and dummy variables for special features.
+  
 - Implemented and evaluated multiple regression models including Lasso regression, Linear regression, and Random Forest to predict rental duration.
+  
 - Performed hyperparameter tuning for Random Forest using RandomizedSearchCV to optimize model performance.
+  
 - Achieved the lowest MSE with the Random Forest model, indicating it as the best performing model for this task.
+  
 - Provided actionable insights for the DVD rental company to enhance their inventory planning based on the predictive model.
 
 **Code:**
@@ -290,7 +310,9 @@ This project analyzes crime data in Los Angeles to identify patterns and assist 
 
 **Key Insights and Outcomes:**
 - Data Cleaning: Loaded and parsed crime data, converting dates and handling time as strings.
+  
 - Exploratory Data Analysis (EDA): Identified the hour with the highest frequency of crimes. Determined the location with the highest crime rate. Analyzed night crime patterns and identified the most affected area. Categorized victims' ages into brackets and analyzed the distribution.
+  
 - Visualization: Created count plots to visualize crime occurrences by hour and victim age brackets.
 
 **Code:**
@@ -327,8 +349,11 @@ This project analyzes whether more goals are scored in women's international soc
   
 **Key Insights and Outcomes:**
 - Data Collection: Used datasets containing results of official men's and women's FIFA World Cup matches.
+  
 - Exploratory Data Analysis (EDA): Combined men's and women's datasets for comparative analysis. Calculated the total goals scored in each match.
+  
 - Statistical Analysis: Conducted a Mann-Whitney U test to compare the number of goals scored in men's and women's matches.
+  
 - Visualization: Created histograms to visualize the distribution of goals scored in both men's and women's matches.
 
 **Code:**
@@ -359,6 +384,7 @@ This project focuses on cleaning and optimizing a large customer dataset for eff
 
 **Key Insights and Outcomes:**
 - Data Cleaning: Loaded the customer dataset and created a copy for cleaning. Converted data types to more memory-efficient formats (e.g., integers to int32, floats to float16). Categorized columns with predefined orderings for better analysis and storage efficiency.
+  
 - Optimization: Filtered the dataset to include students with at least 10 years of experience and who work in companies with 1000-4999 employees.
 
 **Code:**
@@ -374,8 +400,11 @@ This project reanalyzes historical data to examine the impact of handwashing, as
 
 **Key Insights and Outcomes:**
 - Data Loading: Loaded datasets containing yearly and monthly births and deaths data from two clinics at the Vienna General Hospital.
+  
 - Data Cleaning and Transformation: Created columns to calculate the proportion of deaths relative to births. Added a column to mark the start of handwashing.
+  
 - Exploratory Data Analysis (EDA): Visualized the proportion of deaths over time by clinic and overall. Analyzed the impact of handwashing by comparing death proportions before and after its introduction.
+  
 - Visualization: Plotted the proportion of deaths over time using line graphs. Highlighted the change in mortality rates after handwashing was implemented.
 
 **Code:**
@@ -390,6 +419,7 @@ This project analyzes video game critic and user scores, as well as sales data, 
 
 **Key Insights and Outcomes:**
 - Data Queries: Extracted the top 10 best-selling games. Analyzed the top years by average critic scores. Compared years with high critic and user scores to identify potential golden years.
+  
 - Analysis:
   - Best-Selling Games: Identified the games with the highest sales numbers.
   - Top Critic Years: Determined which years had the highest average critic scores for games with at least five releases.
@@ -407,6 +437,7 @@ This project analyzes mental health data from a survey of international and dome
 
 **Key Insights and Outcomes:**
 - Data Queries: Extracted counts of undergraduate and graduate students. Compared the number of international and domestic students. Calculated average scores for depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS) for both international and domestic students. Analyzed the relationship between the length of stay and mental health scores for international students.
+  
 - Analysis:
   - Student Demographics: Determined the distribution of students by academic level and origin (international vs. domestic).
   - Mental Health Scores: Found that international students had different average scores for depression, social connectedness, and acculturative stress compared to domestic students.
@@ -429,6 +460,7 @@ This project analyzes sales data for a company selling motorcycle parts to under
   - Filtered the data to include only wholesale orders.
   - Calculated the net revenue by subtracting payment fees from the total price.
   - Grouped results by product line, month, and warehouse.
+    
 - Query Output:
   - The query output presents the net revenue for each product line, grouped by month and warehouse, allowing the company to gain insights into their wholesale revenue distribution.
 
