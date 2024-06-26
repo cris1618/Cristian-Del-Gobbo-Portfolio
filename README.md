@@ -124,8 +124,11 @@ This research project, conducted in collaboration with one of my professors and 
   
 - Provided valuable insights into the application of deep learning techniques in marine biology, paving the way for future research and development in automated species identification.
 
+*Sample of a plankton Image to analyze:*
+![Project 3 Visualization](Asset/SOL1_ST1_0006_CROPPED_4.JPG)
+
   **Code**: 
-- The code for this project is private 
+The code for this project is private 
 
 ### Project 4: InsightVisualizer (Python)
 **Description:**
