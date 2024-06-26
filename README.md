@@ -273,13 +273,32 @@ This project focuses on analyzing data related to Nobel Prize winners. The analy
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NobelPrize/notebook.ipynb)
 
+### Project 12: Hypotesis Testing with Men's and Women's soccer Matches (Python)
+**Description:**
+This project analyzes whether more goals are scored in women's international soccer matches compared to men's. The analysis is based on official FIFA World Cup match data since January 1, 2002.
+
+**Tools and Technologies Used:**
+- Python: For data analysis.
+- Pandas: For data manipulation.
+- Matplotlib: For data visualization.
+- SciPy: For statistical testing.
+  
+**Key Insights and Outcomes:**
+- Data Collection: Used datasets containing results of official men's and women's FIFA World Cup matches.
+- Exploratory Data Analysis (EDA): Combined men's and women's datasets for comparative analysis. Calculated the total goals scored in each match.
+- Statistical Analysis: Conducted a Mann-Whitney U test to compare the number of goals scored in men's and women's matches.
+- Visualization: Created histograms to visualize the distribution of goals scored in both men's and women's matches.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/SoccerAnalysis/notebook.ipynb)
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
 
 ### Project 9: Customer Analytics: Preparing Data for Modeling (Python)
 
-### Project 10: Hypotesis Testing with Men's and Women's soccer Matches (Python)
+
 
 ### Project 13: Analyzing Crime in Los Angeles (Python)
 
