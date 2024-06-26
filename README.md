@@ -339,10 +339,42 @@ This project focuses on cleaning and optimizing a large customer dataset for eff
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
 
+### Project 16: Dr. Semmelweis and the Importance of Handwashing (R)
+**Description:**
+This project reanalyzes historical data to examine the impact of handwashing, as discovered by Dr. Ignaz Semmelweis, on reducing childbed fever at the Vienna General Hospital in the 1840s.
+
+**Tools and Technologies Used:**
+- R: For data analysis and visualization.
+- Tidyverse: For data manipulation and visualization.
+
+**Key Insights and Outcomes:**
+- Data Loading: Loaded datasets containing yearly and monthly births and deaths data from two clinics at the Vienna General Hospital.
+- Data Cleaning and Transformation: Created columns to calculate the proportion of deaths relative to births. Added a column to mark the start of handwashing.
+- Exploratory Data Analysis (EDA): Visualized the proportion of deaths over time by clinic and overall. Analyzed the impact of handwashing by comparing death proportions before and after its introduction.
+- Visualization: Plotted the proportion of deaths over time using line graphs. Highlighted the change in mortality rates after handwashing was implemented.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
+
+### Project 17: Analyzing Students' Mental Health (SQL)
+**Description:**
+This project analyzes video game critic and user scores, as well as sales data, for the top 400 video games released since 1977. The goal is to identify trends in game quality and sales, and to explore whether there is a "golden age" of video games.
+
+**Tools and Technologies Used:**
+- SQL: For data querying and analysis.
+
+**Key Insights and Outcomes:**
+- Data Queries: Extracted the top 10 best-selling games. Analyzed the top years by average critic scores. Compared years with high critic and user scores to identify potential golden years.
+- Analysis:
+  - Best-Selling Games: Identified the games with the highest sales numbers.
+  - Top Critic Years: Determined which years had the highest average critic scores for games with at least five releases.
+  - Golden Years: Found years where the average critic or user score was exceptionally high and compared the differences between critic and user scores.
+ 
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
 
 
 
-### Project 7: Analyzing Students' Mental Health (SQL)
 
 
 
@@ -352,8 +384,5 @@ This project focuses on cleaning and optimizing a large customer dataset for eff
 
 
 
-
-
-### Project 15: Dr. Semmelweis and the Importance of Handwashing (R)
 
 ### Project 16: When Was the Golden Era of Video Games? (SQL)
