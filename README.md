@@ -172,6 +172,24 @@ This project analyzes the geographic distribution of Battery Electric Vehicles (
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/tree/main/EVDistribution)
+
+### Project 7: Clustering Antarctic Penguin Species (Python)
+**Description:**
+This project supports a team of researchers collecting data about penguins in Antarctica. The task involved applying data science skills to identify groups in the dataset using K-means clustering. The dataset, provided by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, includes measurements such as culmen length, culmen depth, flipper length, body mass, and penguin sex. The goal was to help classify the penguins into the three native species: Adelie, Chinstrap, and Gentoo.
+
+**Tools and Technologies Used:**
+- Python: Data manipulation, analysis, and visualization
+- Sklearn: KMeans, PCA, StandardScaler for clustering and data preprocessing
+- Matplotlib: Visualization of clustering results
+- Pandas: Data handling and manipulation
+
+**Key Insights and Outcomes:**
+Source: @allison_horst GitHub
+By applying K-means clustering, the project successfully classified the penguins into three distinct clusters, corresponding to the three native species. This classification aids the researchers in understanding the population distribution and characteristics of the penguins in the region.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AntarticPenguin/notebook.ipynb)
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
