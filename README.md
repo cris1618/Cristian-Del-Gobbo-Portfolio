@@ -17,8 +17,11 @@ This research investigates the comparative effectiveness of grades and feedback 
 
 **Key Components:**
 - Synthetic Artifact Creation: Developed synthetic student artifacts using advanced prompt-engineering techniques with GPT-4o, ensuring diversity and realism in the simulated student work.
+  
 - Grading Process: Utilized a custom grader-GPT to evaluate the synthetic artifacts, comparing the results with grades and feedback provided by experienced human professors.
+  
 - Statistical Analysis: Employed Intraclass Correlation Coefficient (ICC) for reliability assessment, Pearson correlation for linear comparisons, and ANOVA to identify significant differences in grading patterns. Paired t-tests were used to compare feedback ratings.
+  
 - Evaluation: Engaged additional professors to assess the accuracy and usefulness of feedback from both human graders and the grader-GPT, ensuring a comprehensive evaluation of the AI's performance in educational assessment.
   
 **Significance:**
