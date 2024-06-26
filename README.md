@@ -307,12 +307,26 @@ This project analyzes SAT scores of American high school students to identify tr
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NYCTestScore/notebook.ipynb)
 
+### Project 14: Customer Analytics: Preparing Data for Modeling (Python)
+**Description:**
+This project focuses on cleaning and optimizing a large customer dataset for efficient storage and analysis. The dataset is intended for predicting whether students are looking for a new job.
+
+**Tools and Technologies Used:**
+- Python: For data cleaning and optimization.
+- Pandas: For data manipulation.
+
+**Key Insights and Outcomes:**
+- Data Cleaning: Loaded the customer dataset and created a copy for cleaning. Converted data types to more memory-efficient formats (e.g., integers to int32, floats to float16). Categorized columns with predefined orderings for better analysis and storage efficiency.
+- Optimization: Filtered the dataset to include students with at least 10 years of experience and who work in companies with 1000-4999 employees.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
 
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 
 
-### Project 9: Customer Analytics: Preparing Data for Modeling (Python)
+
 
 
 
