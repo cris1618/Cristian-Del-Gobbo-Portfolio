@@ -184,12 +184,34 @@ This project supports a team of researchers collecting data about penguins in An
 - Pandas: Data handling and manipulation
 
 **Key Insights and Outcomes:**
+
 Source: @allison_horst GitHub
 
 By applying K-means clustering, the project successfully classified the penguins into three distinct clusters, corresponding to the three native species. This classification aids the researchers in understanding the population distribution and characteristics of the penguins in the region.
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AntarticPenguin/notebook.ipynb)
+
+### Project 8: Predictive Modeling for Agriculture (Python)
+**Description:**
+This project involves building a machine learning model to help farmers select the best crops for their fields based on essential soil metrics. By analyzing the dataset containing nitrogen, phosphorous, potassium levels, and pH values, the goal is to predict the optimal crop type to maximize yield. The project addresses the challenge of multicollinearity among features to improve model accuracy.
+
+**Tools and Technologies Used:**
+- Python: Primary programming language for data analysis and modeling
+- Pandas: For data manipulation and preprocessing
+- Scikit-learn (Sklearn):
+-- Logistic Regression: To build and evaluate the multi-class classification model
+-- Train-Test Split: To split the dataset for training and testing
+-- F1 Score: To measure model performance
+- Seaborn and Matplotlib: For data visualization and creating heatmaps to analyze feature correlations
+  
+**Key Insights and Outcomes:**
+- Successfully trained a logistic regression model to predict crop types based on soil measurements.
+- Identified and addressed multicollinearity among features, selecting the best combination of features for the final model.
+- Achieved a low weighted F1 score on the test data, demonstrating the model's effectiveness in predicting the optimal crop for different soil conditions.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
 
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
@@ -200,8 +222,6 @@ By applying K-means clustering, the project successfully classified the penguins
 ### Project 10: Hypotesis Testing with Men's and Women's soccer Matches (Python)
 
 ### Project 11: Modeling Car Insurance Claim Outcomes (Python)
-
-### Project 12: Predictive Modeling for Agriculture (Python)
 
 ### Project 13: Analyzing Crime in Los Angeles (Python)
 
