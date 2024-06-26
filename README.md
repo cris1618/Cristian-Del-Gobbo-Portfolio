@@ -292,9 +292,25 @@ This project analyzes whether more goals are scored in women's international soc
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/SoccerAnalysis/notebook.ipynb)
 
+### Project 13: Exploring NYC Public School test Results Scores (Python)
+**Description:**
+This project analyzes SAT scores of American high school students to identify trends and insights. The analysis focuses on the scores across different sections and explores factors that might influence performance.
+
+**Tools and Technologies Used:**
+- Python: For data analysis.
+- Pandas: For data manipulation.
+
+**Key Insights and Outcomes:**
+- Data Collection: Utilized datasets containing SAT scores of high school students.
+- Exploratory Data Analysis (EDA): Analyzed SAT scores across different sections: literacy, numeracy, and writing.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NYCTestScore/notebook.ipynb)
+
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
-### Project 8: Exploring NYC Public School test Results Scores (Python)
+
 
 ### Project 9: Customer Analytics: Preparing Data for Modeling (Python)
 
