@@ -391,3 +391,21 @@ This project analyzes mental health data from a survey of international and dome
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MentalHealth/notebook.ipynb)
 
 ### Project 18: Analyzing Motorcycle Part Sales
+**Description:**
+This project analyzes sales data for a company selling motorcycle parts to understand wholesale revenue by product line, month, and warehouse. The analysis aims to calculate the net revenue from wholesale orders, considering the payment fees associated with different payment methods.
+
+**Tools and Technologies Used:**
+- SQL: For data querying and analysis.
+
+**Key Insights and Outcomes:**
+- Data Queries:
+  - Extracted relevant columns from the sales data, including product line, order date, warehouse, client type, total price, and payment fee.
+  - Converted the order dates to corresponding months (June, July, August).
+  - Filtered the data to include only wholesale orders.
+  - Calculated the net revenue by subtracting payment fees from the total price.
+  - Grouped results by product line, month, and warehouse.
+- Query Output:
+  - The query output presents the net revenue for each product line, grouped by month and warehouse, allowing the company to gain insights into their wholesale revenue distribution.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MotorCycleSQL/notebook.ipynb)
