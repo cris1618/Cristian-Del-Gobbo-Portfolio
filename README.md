@@ -213,6 +213,25 @@ This project involves building a machine learning model to help farmers select t
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
 
+### Project 9: Modeling Car Insurance Claim Outcomes (Python)
+**Description:**
+This project involves building a machine learning model (Only feature importances) to predict whether a customer will make a claim on their car insurance during the policy period. The model aims to optimize pricing strategies for the insurance company and improve their prediction accuracy. The dataset includes various features such as age, gender, driving experience, education, income, credit score, and vehicle ownership status. The goal is to identify the single feature that results in the best performing model, as measured by accuracy, so they can start with a simple model in production.
+
+**Tools and Technologies Used:**
+- Python: General programming and data manipulation
+- Pandas: Data manipulation and analysis
+- Scikit-learn: Machine learning algorithms and evaluation
+- Matplotlib & Seaborn: Data visualization
+- Statsmodels: Statistical modeling
+  
+**Key Insights and Outcomes:**
+- Conducted data preprocessing including handling missing values and encoding categorical features.
+- Built and evaluated multiple logistic regression models to identify the feature with the highest predictive power.
+- Driving experience was identified as the single best feature, achieving an accuracy of 77.71%.
+  
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CarModel/notebook.ipynb)
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
@@ -220,8 +239,6 @@ This project involves building a machine learning model to help farmers select t
 ### Project 9: Customer Analytics: Preparing Data for Modeling (Python)
 
 ### Project 10: Hypotesis Testing with Men's and Women's soccer Matches (Python)
-
-### Project 11: Modeling Car Insurance Claim Outcomes (Python)
 
 ### Project 13: Analyzing Crime in Los Angeles (Python)
 
