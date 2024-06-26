@@ -388,6 +388,6 @@ This project analyzes mental health data from a survey of international and dome
   - Length of Stay: Investigated how the length of stay in Japan affected mental health indicators for international students.
  
 **Code:**
-[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MentalHealth/notebook.ipynb)
 
 ### Project 18: Analyzing Motorcycle Part Sales
