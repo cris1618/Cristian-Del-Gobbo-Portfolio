@@ -232,6 +232,28 @@ This project involves building a machine learning model (Only feature importance
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CarModel/notebook.ipynb)
 
+### Project 10: Predicting Movie Rental Durations (Python)
+**Description:**
+This project focuses on predicting the number of days a customer will rent a DVD using various regression models. The dataset includes features such as rental and return dates, amount paid, rental rate, release year, length, replacement cost, and special features. The objective is to create a model that yields a Mean Squared Error (MSE) of 3 or less on the test set to help the DVD rental company improve inventory planning.
+
+**Tools and Technologies Used:**
+- Python: For data manipulation and analysis.
+- Pandas: To handle and process the dataset.
+- NumPy: For numerical operations.
+- Scikit-learn: For model implementation, including Lasso regression, Random Forest, and OLS regression.
+- Matplotlib & Seaborn: For data visualization (though not explicitly used in this notebook).
+- Jupyter Notebook: For interactive data analysis and model building.
+
+**Key Insights and Outcomes:**
+- Conducted feature engineering to create meaningful variables, such as rental length and dummy variables for special features.
+- Implemented and evaluated multiple regression models including Lasso regression, Linear regression, and Random Forest to predict rental duration.
+- Performed hyperparameter tuning for Random Forest using RandomizedSearchCV to optimize model performance.
+- Achieved the lowest MSE with the Random Forest model, indicating it as the best performing model for this task.
+- Provided actionable insights for the DVD rental company to enhance their inventory planning based on the predictive model.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/RentalPred/notebook.ipynb)
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
