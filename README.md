@@ -254,6 +254,25 @@ This project focuses on predicting the number of days a customer will rent a DVD
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/RentalPred/notebook.ipynb)
 
+### Project 11: Visualizing the History of Nobel Prizes (Python)
+**Description:**
+This project focuses on analyzing data related to Nobel Prize winners. The analysis covers various aspects such as the distribution of prizes across different categories, the demographic details of the laureates, and the trends over the years. The primary goal is to uncover patterns and insights about the Nobel Prize awards.
+
+**Tools and Technologies Used:**
+- Python: The primary programming language used for data analysis.
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical operations.
+- Matplotlib and Seaborn: For data visualization.
+- Jupyter Notebook: As the development environment for running and presenting the analysis.
+
+**Key Insights and Outcomes:**
+- Data Collection
+- Exploratory Data Analysis (EDA): Analyzed the distribution of Nobel Prizes across different categories (Chemistry, Literature, Physics, etc.).
+- Visualization: Created informative visualizations to highlight key findings, such as bar charts, histograms, and line plots.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NobelPrize/notebook.ipynb)
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 ### Project 8: Exploring NYC Public School test Results Scores (Python)
@@ -264,7 +283,7 @@ This project focuses on predicting the number of days a customer will rent a DVD
 
 ### Project 13: Analyzing Crime in Los Angeles (Python)
 
-### Project 14: Visualizing the History of Nobel Prizes (Python)
+
 
 ### Project 15: Dr. Semmelweis and the Importance of Handwashing (R)
 
