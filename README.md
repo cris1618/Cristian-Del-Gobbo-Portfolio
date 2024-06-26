@@ -254,7 +254,24 @@ This project focuses on predicting the number of days a customer will rent a DVD
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/RentalPred/notebook.ipynb)
 
-### Project 11: Visualizing the History of Nobel Prizes (Python)
+### Project 11: Analyzing Crime in Los Angeles (Python)
+**Description:**
+This project analyzes crime data in Los Angeles to identify patterns and assist the LAPD in resource allocation.
+
+**Tools and Technologies Used:**
+- Python: For data analysis.
+- Pandas: For data manipulation.
+- Matplotlib and Seaborn: For data visualization.
+
+**Key Insights and Outcomes:**
+- Data Cleaning: Loaded and parsed crime data, converting dates and handling time as strings.
+- Exploratory Data Analysis (EDA): Identified the hour with the highest frequency of crimes. Determined the location with the highest crime rate. Analyzed night crime patterns and identified the most affected area. Categorized victims' ages into brackets and analyzed the distribution.
+- Visualization: Created count plots to visualize crime occurrences by hour and victim age brackets.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/LACrime/notebook.ipynb)
+
+### Project 12: Visualizing the History of Nobel Prizes (Python)
 **Description:**
 This project focuses on analyzing data related to Nobel Prize winners. The analysis covers various aspects such as the distribution of prizes across different categories, the demographic details of the laureates, and the trends over the years. The primary goal is to uncover patterns and insights about the Nobel Prize awards.
 
@@ -273,7 +290,7 @@ This project focuses on analyzing data related to Nobel Prize winners. The analy
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NobelPrize/notebook.ipynb)
 
-### Project 12: Hypotesis Testing with Men's and Women's soccer Matches (Python)
+### Project 13: Hypotesis Testing with Men's and Women's soccer Matches (Python)
 **Description:**
 This project analyzes whether more goals are scored in women's international soccer matches compared to men's. The analysis is based on official FIFA World Cup match data since January 1, 2002.
 
@@ -292,7 +309,7 @@ This project analyzes whether more goals are scored in women's international soc
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/SoccerAnalysis/notebook.ipynb)
 
-### Project 13: Exploring NYC Public School test Results Scores (Python)
+### Project 14: Exploring NYC Public School test Results Scores (Python)
 **Description:**
 This project analyzes SAT scores of American high school students to identify trends and insights. The analysis focuses on the scores across different sections and explores factors that might influence performance.
 
@@ -307,7 +324,7 @@ This project analyzes SAT scores of American high school students to identify tr
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NYCTestScore/notebook.ipynb)
 
-### Project 14: Customer Analytics: Preparing Data for Modeling (Python)
+### Project 15: Customer Analytics: Preparing Data for Modeling (Python)
 **Description:**
 This project focuses on cleaning and optimizing a large customer dataset for efficient storage and analysis. The dataset is intended for predicting whether students are looking for a new job.
 
@@ -322,6 +339,9 @@ This project focuses on cleaning and optimizing a large customer dataset for eff
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
 
+
+
+
 ### Project 7: Analyzing Students' Mental Health (SQL)
 
 
@@ -330,7 +350,7 @@ This project focuses on cleaning and optimizing a large customer dataset for eff
 
 
 
-### Project 13: Analyzing Crime in Los Angeles (Python)
+
 
 
 
