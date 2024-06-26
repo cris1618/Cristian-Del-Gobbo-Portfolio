@@ -374,15 +374,20 @@ This project analyzes video game critic and user scores, as well as sales data, 
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
 
 ### Project 17: Analyzing Students' Mental Health (SQL)
+**Description:**
+This project analyzes mental health data from a survey of international and domestic students at a Japanese international university. The goal is to explore the impact of being an international student on mental health, social connectedness, and acculturative stress.
 
+**Tools and Technologies Used:**
+- SQL: For data querying and analysis.
 
+**Key Insights and Outcomes:**
+- Data Queries: Extracted counts of undergraduate and graduate students. Compared the number of international and domestic students. Calculated average scores for depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS) for both international and domestic students. Analyzed the relationship between the length of stay and mental health scores for international students.
+- Analysis:
+  - Student Demographics: Determined the distribution of students by academic level and origin (international vs. domestic).
+  - Mental Health Scores: Found that international students had different average scores for depression, social connectedness, and acculturative stress compared to domestic students.
+  - Length of Stay: Investigated how the length of stay in Japan affected mental health indicators for international students.
+ 
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
 
-
-
-
-
-
-
-
-
-
+### Project 18: Analyzing Motorcycle Part Sales
