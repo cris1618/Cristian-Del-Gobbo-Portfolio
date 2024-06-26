@@ -356,7 +356,7 @@ This project reanalyzes historical data to examine the impact of handwashing, as
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
 
-### Project 17: Analyzing Students' Mental Health (SQL)
+### Project 16: When Was the Golden Era of Video Games? (SQL)
 **Description:**
 This project analyzes video game critic and user scores, as well as sales data, for the top 400 video games released since 1977. The goal is to identify trends in game quality and sales, and to explore whether there is a "golden age" of video games.
 
@@ -373,6 +373,7 @@ This project analyzes video game critic and user scores, as well as sales data, 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
 
+### Project 17: Analyzing Students' Mental Health (SQL)
 
 
 
@@ -385,4 +386,3 @@ This project analyzes video game critic and user scores, as well as sales data, 
 
 
 
-### Project 16: When Was the Golden Era of Video Games? (SQL)
