@@ -245,6 +245,9 @@ Source: @allison_horst GitHub
 
 By applying K-means clustering, the project successfully classified the penguins into three distinct clusters, corresponding to the three native species. This classification aids the researchers in understanding the population distribution and characteristics of the penguins in the region.
 
+*EV Distribution*
+![Project 7 Visualization](Asset/penguin.png)
+
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AntarticPenguin/notebook.ipynb)
 
