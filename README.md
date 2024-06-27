@@ -186,7 +186,7 @@ This project focuses on exploring correlations and analyzing the statistical sig
 environmental factors on income levels. These correlations underscore associations rather than causal relationships, providing valuable insights into socio-economic dynamics.
 
 *IQ vs Average Income (logarithmic scale)*
-![Project 3 Visualization](Asset/IQ.png)
+![Project 5 Visualization](Asset/IQ.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/IQ-Income/notebook.ipynb)
