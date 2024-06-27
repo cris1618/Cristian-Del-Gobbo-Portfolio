@@ -94,7 +94,8 @@ VizBeauty is a sophisticated Python toolkit designed to enhance data visualizati
   
 These functions collectively empower users to perform comprehensive data analysis and visualization, leading to actionable insights and informed decision-making.
 
-![Project 2 Visualization](Asset/PyPI.png)
+*Example of a package function visualization:*
+![Project 2 Visualization](Asset/VizBeauty Visualization.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/VizBeauty-)
