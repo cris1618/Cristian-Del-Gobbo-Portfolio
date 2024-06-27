@@ -245,7 +245,7 @@ Source: @allison_horst GitHub
 
 By applying K-means clustering, the project successfully classified the penguins into three distinct clusters, corresponding to the three native species. This classification aids the researchers in understanding the population distribution and characteristics of the penguins in the region.
 
-*EV Distribution*
+*Number of Clusters selection*
 ![Project 7 Visualization](Asset/penguin.png)
 
 **Code:**
@@ -268,6 +268,10 @@ This project involves building a machine learning model to help farmers select t
 - Successfully trained a logistic regression model to predict crop types based on soil measurements.
 - Identified and addressed multicollinearity among features, selecting the best combination of features for the final model.
 - Achieved a low weighted F1 score on the test data, demonstrating the model's effectiveness in predicting the optimal crop for different soil conditions.
+
+*Feature selection Heatmap*
+![Project 7 Visualization](Asset/Agriculture.png)
+
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
