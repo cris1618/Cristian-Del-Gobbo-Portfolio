@@ -272,7 +272,6 @@ This project involves building a machine learning model to help farmers select t
 *Feature selection Heatmap*
 ![Project 7 Visualization](Asset/Agriculture.png)
 
-
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
 
@@ -336,6 +335,9 @@ This project analyzes crime data in Los Angeles to identify patterns and assist 
 - Exploratory Data Analysis (EDA): Identified the hour with the highest frequency of crimes. Determined the location with the highest crime rate. Analyzed night crime patterns and identified the most affected area. Categorized victims' ages into brackets and analyzed the distribution.
   
 - Visualization: Created count plots to visualize crime occurrences by hour and victim age brackets.
+
+*Number of crime per hour*
+![Project Visualization](Asset/LA.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/LACrime/notebook.ipynb)
