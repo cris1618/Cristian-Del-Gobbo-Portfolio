@@ -223,6 +223,9 @@ This project analyzes the geographic distribution of Battery Electric Vehicles (
 - Enhanced data collection for deeper insights.
 - Integration with smart grids for energy optimization and grid reliability.
 
+*EV Distribution*
+![Project 6 Visualization](Asset/EV.png)
+
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/tree/main/EVDistribution)
 
