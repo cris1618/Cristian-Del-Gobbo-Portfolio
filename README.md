@@ -159,7 +159,7 @@ While the project does not draw definitive conclusions due to potential inaccura
   
 - Feature Importance Analysis: Identified key features impacting the prediction models, highlighting the significance of happiness score, fertility rate, and GDP per capita in influencing life expectancy and happiness.
 
-*Example of one of the project visualization*
+*Heatmap taken from the project*
 ![Project 4 Visualization](Asset/InsightVisulaizer.png)
 
 **Code:**
