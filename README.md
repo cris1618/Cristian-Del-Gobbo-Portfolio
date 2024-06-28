@@ -465,6 +465,9 @@ This project analyzes mental health data from a survey of international and dome
   - Student Demographics: Determined the distribution of students by academic level and origin (international vs. domestic).
   - Mental Health Scores: Found that international students had different average scores for depression, social connectedness, and acculturative stress compared to domestic students.
   - Length of Stay: Investigated how the length of stay in Japan affected mental health indicators for international students.
+
+*Depression average test scores*
+![Project Visualization](Asset/MentalHealth.png)
  
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MentalHealth/notebook.ipynb)
