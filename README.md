@@ -401,7 +401,7 @@ This project analyzes SAT scores of American high school students to identify tr
 - Data Collection: Utilized datasets containing SAT scores of high school students.
 - Exploratory Data Analysis (EDA): Analyzed SAT scores across different sections: literacy, numeracy, and writing.
 
-*SAT Scores in New York Borough*
+*SAT Scores in New York's Borough*
 ![Project Visualization](Asset/SAT.png)
 
 
