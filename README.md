@@ -490,6 +490,9 @@ This project analyzes sales data for a company selling motorcycle parts to under
 - Query Output:
   - The query output presents the net revenue for each product line, grouped by month and warehouse, allowing the company to gain insights into their wholesale revenue distribution.
 
+*Revenues per product type*
+![Project Visualization](Asset/ProductSales.png)
+
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MotorCycleSQL/notebook.ipynb)
 
