@@ -383,6 +383,9 @@ This project analyzes whether more goals are scored in women's international soc
   
 - Visualization: Created histograms to visualize the distribution of goals scored in both men's and women's matches.
 
+*Distribution of total goals in World Cup matches*
+![Project Visualization](Asset/WorldCup.png)
+
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/SoccerAnalysis/notebook.ipynb)
 
