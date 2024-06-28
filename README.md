@@ -270,7 +270,7 @@ This project involves building a machine learning model to help farmers select t
 - Achieved a low weighted F1 score on the test data, demonstrating the model's effectiveness in predicting the optimal crop for different soil conditions.
 
 *Feature selection Heatmap*
-![Project 7 Visualization](Asset/Agriculture.png)
+![Project Visualization](Asset/Agriculture.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
@@ -357,6 +357,9 @@ This project focuses on analyzing data related to Nobel Prize winners. The analy
 - Data Collection
 - Exploratory Data Analysis (EDA): Analyzed the distribution of Nobel Prizes across different categories (Chemistry, Literature, Physics, etc.).
 - Visualization: Created informative visualizations to highlight key findings, such as bar charts, histograms, and line plots.
+
+*Proportion of Female Winner per Category*
+![Project Visualization](Asset/Nobel.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NobelPrize/notebook.ipynb)
