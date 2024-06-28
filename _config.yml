@@ -4,4 +4,5 @@ description: Hello, and welcome to my Data Science portfolio. Here, you will fin
 show_downloads: false
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-Cayman
-theme: jekyll-theme-Hacker
+#theme: jekyll-theme-Hacker
+theme: jekyll-theme-Leap day
