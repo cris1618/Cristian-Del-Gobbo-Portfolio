@@ -444,6 +444,9 @@ This project analyzes video game critic and user scores, as well as sales data, 
   - Best-Selling Games: Identified the games with the highest sales numbers.
   - Top Critic Years: Determined which years had the highest average critic scores for games with at least five releases.
   - Golden Years: Found years where the average critic or user score was exceptionally high and compared the differences between critic and user scores.
+
+*Golden Years in Video Games*
+![Project Visualization](Asset/VideoGames.png)
  
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
