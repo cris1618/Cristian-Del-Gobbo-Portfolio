@@ -404,27 +404,10 @@ This project analyzes SAT scores of American high school students to identify tr
 *SAT Scores in New York's Borough*
 ![Project Visualization](Asset/SAT.png)
 
-
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NYCTestScore/notebook.ipynb)
 
-### Project 15: Customer Analytics: Preparing Data for Modeling (Python)
-**Description:**
-This project focuses on cleaning and optimizing a large customer dataset for efficient storage and analysis. The dataset is intended for predicting whether students are looking for a new job.
-
-**Tools and Technologies Used:**
-- Python: For data cleaning and optimization.
-- Pandas: For data manipulation.
-
-**Key Insights and Outcomes:**
-- Data Cleaning: Loaded the customer dataset and created a copy for cleaning. Converted data types to more memory-efficient formats (e.g., integers to int32, floats to float16). Categorized columns with predefined orderings for better analysis and storage efficiency.
-  
-- Optimization: Filtered the dataset to include students with at least 10 years of experience and who work in companies with 1000-4999 employees.
-
-**Code:**
-[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
-
-### Project 16: Dr. Semmelweis and the Importance of Handwashing (R)
+### Project 15: Dr. Semmelweis and the Importance of Handwashing (R)
 **Description:**
 This project reanalyzes historical data to examine the impact of handwashing, as discovered by Dr. Ignaz Semmelweis, on reducing childbed fever at the Vienna General Hospital in the 1840s.
 
@@ -440,6 +423,9 @@ This project reanalyzes historical data to examine the impact of handwashing, as
 - Exploratory Data Analysis (EDA): Visualized the proportion of deaths over time by clinic and overall. Analyzed the impact of handwashing by comparing death proportions before and after its introduction.
   
 - Visualization: Plotted the proportion of deaths over time using line graphs. Highlighted the change in mortality rates after handwashing was implemented.
+
+*Handwashing Impact*
+![Project Visualization](Asset/Handwashing.png)
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
@@ -500,3 +486,19 @@ This project analyzes sales data for a company selling motorcycle parts to under
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MotorCycleSQL/notebook.ipynb)
+
+### Project 19: Customer Analytics: Preparing Data for Modeling (Python)
+**Description:**
+This project focuses on cleaning and optimizing a large customer dataset for efficient storage and analysis. The dataset is intended for predicting whether students are looking for a new job.
+
+**Tools and Technologies Used:**
+- Python: For data cleaning and optimization.
+- Pandas: For data manipulation.
+
+**Key Insights and Outcomes:**
+- Data Cleaning: Loaded the customer dataset and created a copy for cleaning. Converted data types to more memory-efficient formats (e.g., integers to int32, floats to float16). Categorized columns with predefined orderings for better analysis and storage efficiency.
+  
+- Optimization: Filtered the dataset to include students with at least 10 years of experience and who work in companies with 1000-4999 employees.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
