@@ -160,7 +160,7 @@ This research project, conducted in collaboration with one of my professors and 
 - Provided valuable insights into the application of deep learning techniques in marine biology, paving the way for future research and development in automated species identification.
 
 *Early visualized prediction of the model:*
-![Project 3 Visualization](https://github.com/cris1618/Cristian-Del-Gobbo-Portfolio/blob/main/Asset/Predictions.png)
+![Project 3 Visualization](Asset/Predictions.png)
 
 **Code**: 
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/PlanktonResearch/NewTLPreloadedFRCNN.py)
