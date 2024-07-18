@@ -38,8 +38,37 @@ This project demonstrates the transformative potential of deep learning in marin
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 7-8 positions.
 
 ### Project 1: GPT-2 Local Replication (Python)
+**Description:**
+In this project, I replicated a GPT-2 model following the detailed instructions provided by Andrej Karpathy in one of his [tutorial videos](https://youtu.be/l8pRSuU81PU?si=aH1r8OYISL3pokbB). The primary objective was to understand and implement a GPT-2 model locally, focusing on text generation tasks.
 
+The project closely mirrors the structure and implementation found in [Karpathy's GitHub repository] (https://github.com/karpathy/build-nanogpt), ensuring a comprehensive grasp of the underlying mechanics of GPT-2.
 
+**Key Features:**
+- Implemented a GPT-2 architecture: Followed Andrej Karpathy's tutorial to build a robust transformer model.
+- Used TikToken for encoding: Leveraged the TikToken encoding method for efficient and accurate tokenization of the input text.
+- Distributed Data Parallel (DDP): Utilized DDP to optimize the training process across multiple GPUs.
+- Flash Attention Mechanism: Implemented Flash Self-Attention to enhance the efficiency of attention computation.
+- Adaptive Learning Rate: Devised a learning rate schedule with linear warmup and cosine decay to ensure optimal training performance.
+  
+**Technologies Used:**
+- Python
+- PyTorch
+- TikToken
+- Distributed Data Parallel (DDP)
+- Transformer Model (GPT-2)
+
+**Project Outcomes:**
+- Successfully replicated a GPT-2 model capable of generating coherent and contextually relevant text.
+- Validated the effectiveness of GPT-2 models for natural language processing tasks.
+- Demonstrated the practical implementation of advanced tokenization and attention mechanisms.
+
+**Learnings:**
+- Acquired in-depth knowledge of GPT-2 model architecture and its implementation.
+- Enhanced understanding of tokenization methods and their impact on model performance.
+- Improved skills in optimizing machine learning models for distributed environments.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/GPT2-Replication/train_GPT-2.py)
 
 ### Project 2: NanoGPT (Python)
 **Description:**
