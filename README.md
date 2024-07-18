@@ -159,11 +159,11 @@ This research project, conducted in collaboration with one of my professors and 
   
 - Provided valuable insights into the application of deep learning techniques in marine biology, paving the way for future research and development in automated species identification.
 
-*Sample of a plankton Image to analyze:*
-![Project 3 Visualization](Asset/SOL1_ST1_0006_CROPPED_4.JPG)
+*Early visualized prediction of the model:*
+![Project 3 Visualization](https://github.com/cris1618/Cristian-Del-Gobbo-Portfolio/blob/main/Asset/Predictions.png)
 
-  **Code**: 
-The code for this project is private 
+**Code**: 
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/PlanktonResearch/NewTLPreloadedFRCNN.py)
 
 ### Project 5: InsightVisualizer (Python)
 **Description:**
