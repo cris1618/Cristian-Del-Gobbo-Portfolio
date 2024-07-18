@@ -41,7 +41,7 @@ This project demonstrates the transformative potential of deep learning in marin
 **Description:**
 In this project, I replicated a GPT-2 model following the detailed instructions provided by Andrej Karpathy in one of his [tutorial videos](https://youtu.be/l8pRSuU81PU?si=aH1r8OYISL3pokbB). The primary objective was to understand and implement a GPT-2 model locally, focusing on text generation tasks.
 
-The project closely mirrors the structure and implementation found in [Karpathy's GitHub repository] (https://github.com/karpathy/build-nanogpt), ensuring a comprehensive grasp of the underlying mechanics of GPT-2.
+The project closely mirrors the structure and implementation found in [Karpathy's GitHub repository](https://github.com/karpathy/build-nanogpt), ensuring a comprehensive grasp of the underlying mechanics of GPT-2.
 
 **Key Features:**
 - Implemented a GPT-2 architecture: Followed Andrej Karpathy's tutorial to build a robust transformer model.
