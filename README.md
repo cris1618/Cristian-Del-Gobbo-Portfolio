@@ -27,6 +27,9 @@ This research investigates the comparative effectiveness of grades and feedback 
 **Significance:**
 This research aims to enhance the understanding of AI's role in educational assessment, providing insights into the potential for AI-driven tools to improve the efficiency and quality of grading and feedback processes. The findings have implications for integrating AI in educational settings, ultimately contributing to better learning outcomes and reduced workload for educators.
 
+**Code for Statistical Analysis:**
+[View the code on GitHub](Asset/AAA-AI-stats.png)
+
 ### Plankton Carbon decay analysis through deep learning models (Not published Yet) 
 **Description:**
 This research project, conducted in collaboration with one of my professors and international researchers, focuses on developing a deep learning model to detect and classify plankton species from microscopic images. The objective is to automate the process of identifying various plankton types to support marine biology research and environmental monitoring. (Details in Project 3 section)
