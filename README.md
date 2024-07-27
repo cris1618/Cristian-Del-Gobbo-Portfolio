@@ -27,12 +27,15 @@ This research investigates the comparative effectiveness of grades and feedback 
 **Significance:**
 This research aims to enhance the understanding of AI's role in educational assessment, providing insights into the potential for AI-driven tools to improve the efficiency and quality of grading and feedback processes. The findings have implications for integrating AI in educational settings, ultimately contributing to better learning outcomes and reduced workload for educators.
 
+*Distribution of grades*
+![Project 2 Visualization](Asset/AAA-AI-stats.png)
+
 **Code for Statistical Analysis:**
-[View the code on GitHub](Asset/AAA-AI-stats.png)
+[View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AAA-AI%20Research/AAA-AI%20stats.ipynb)
 
 ### Plankton Carbon decay analysis through deep learning models (Not published Yet) 
 **Description:**
-This research project, conducted in collaboration with one of my professors and international researchers, focuses on developing a deep learning model to detect and classify plankton species from microscopic images. The objective is to automate the process of identifying various plankton types to support marine biology research and environmental monitoring. (Details in Project 3 section)
+This research project, conducted in collaboration with one of my professors and international researchers, focuses on developing a deep learning model to detect and classify plankton species from microscopic images. The objective is to automate the process of identifying various plankton types to support marine biology research and environmental monitoring. (Details in Project 4 section)
 
 **Significance:**
 This project demonstrates the transformative potential of deep learning in marine biology by automating the identification of plankton species, a task traditionally reliant on manual labor and expertise. The ability to accurately and efficiently classify plankton from microscopic images supports large-scale ecological studies and environmental monitoring efforts. By leveraging advanced machine learning models and international collaboration, this research contributes to the broader understanding of marine ecosystems and aids in the development of sustainable environmental practices.
