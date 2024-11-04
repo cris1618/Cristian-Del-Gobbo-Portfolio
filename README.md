@@ -40,9 +40,12 @@ This research project, conducted in collaboration with one of my professors and 
 **Significance:**
 This project demonstrates the transformative potential of deep learning in marine biology by automating the identification of plankton species, a task traditionally reliant on manual labor and expertise. The ability to accurately and efficiently classify plankton from microscopic images supports large-scale ecological studies and environmental monitoring efforts. By leveraging advanced machine learning models and international collaboration, this research contributes to the broader understanding of marine ecosystems and aids in the development of sustainable environmental practices.
 
+*Predictions vs target boxes and label (With contours)*
+![Project 2 Visualization](Asset/Plankton_predict.png)
+
 **The Code is private for the moment.** 
 
-### Mapping the use of GAI in a higher educational context
+### Mapping the use of GAI in a higher educational context (Published as First Author)
 **Description:**
 This project explores the usage patterns, frequency, and purposes of Generative AI (GAI) tools among students at a small liberal arts college, focusing on a college population with fewer than 1,000 students. Conducted through a survey at Lyon College, the research investigates students’ engagement with GAI, including preferred tools, academic tasks supported by AI, and usage differences across academic disciplines and between international and domestic students.
 
