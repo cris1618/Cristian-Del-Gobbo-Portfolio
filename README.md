@@ -1,7 +1,7 @@
 # Cristian Del Gobbo Portfolio
 
 ## About Me
-I am a passionate data science student pursuing a double major in Data Science and Mathematics, with a minor in Business Administration. My academic and professional journey has equipped me with a strong foundation in analytical thinking, problem-solving, and technical expertise.
+I am a passionate data science student pursuing a triple major in Mathematics, Data Science & Computer Science with a minor in Business Administration. My academic and professional journey has equipped me with a strong foundation in analytical thinking, problem-solving, and technical expertise.
 
 ## Education
 ### Lyon College
