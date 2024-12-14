@@ -30,6 +30,9 @@ This research aims to enhance the understanding of AI's role in educational asse
 *Distribution of grades*
 ![Project 2 Visualization](Asset/AAA-AI-stats.png)
 
+**Link for the full paper:**
+[Full Paper](https://www.researchgate.net/publication/386381082_AUTOMATED_ASSESSMENT_OF_ARTEFACTS_USING_AI)
+
 **Code for Statistical Analysis:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AAA-AI%20Research/AAA-AI%20stats.ipynb)
 
