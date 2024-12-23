@@ -71,9 +71,9 @@ This research provides valuable insights into how GAI is integrated into academi
 [View the code on GitHub](https://github.com/cris1618/Mapping-the-use-of-GAI-in-a-higher-educational-context/blob/main/AI_usage.ipynb)
 
 ## Projects
-*Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 8-9 positions.
+*Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
 
-### Project 1: GPT-2 Local Replication (Python)
+### GPT-2 Local Replication (Python)
 **Description:**
 In this project, I replicated a GPT-2 model following the detailed instructions provided by Andrej Karpathy in one of his [tutorial videos](https://youtu.be/l8pRSuU81PU?si=aH1r8OYISL3pokbB). The primary objective was to understand and implement a GPT-2 model locally, focusing on text generation tasks.
 
@@ -106,7 +106,7 @@ The project closely mirrors the structure and implementation found in [Karpathy'
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/GPT2-Replication/train_GPT-2.py)
 
-### Project 2: NanoGPT (Python)
+### NanoGPT (Python)
 **Description:**
 In this project, I trained a decoder-only transformer model following the principles outlined in the seminal paper "Attention Is All You Need" by Vaswani et al. The goal was to generate coherent and contextually relevant text based on Shakespearean language.
 
@@ -138,7 +138,43 @@ To enhance the precision of the model, I utilized the TikToken encoding method i
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/44cc270434af585f9141b71d5ff38e590beb14e1/NanoGPT/ShakeTikToken.py)
 
-### Project 3: Neural Network in C (PyTorch speed comparison)
+### ML From Scratch (Python and C)
+**Description:**
+I am developing core machine learning algorithms from scratch in both Python and C, with the objective of implementing a comprehensive suite of models without relying on external machine learning libraries. This hands-on approach aims to deepen my understanding of the theoretical foundations and low-level operations that power modern machine learning frameworks.
+
+The project covers essential concepts such as gradient descent, softmax regression, cross-entropy loss, and matrix operations, gradually expanding to include more advanced algorithms like decision trees, support vector machines, and neural networks. By translating implementations between Python and C, I explore the trade-offs between high-level and low-level programming paradigms in machine learning.
+
+**Key Features:**
+- Developing a wide range of machine learning algorithms from scratch
+- Implementing critical components such as softmax functions, activation functions, loss functions, and gradient descent manually.
+- Writing custom data generation, train-test split, and matrix manipulation functions.
+- Building efficient C implementations to improve computational performance and memory usage.
+- Ensuring numerical stability and scalability by focusing on low-level optimization techniques.
+
+**Technologies Used:**
+- Python
+- C
+- Matplotlib (for Python visualization)
+- Linear Algebra and Matrix Operations 
+- Gradient Descent Optimization
+- Cross-Entropy and MSE Loss Functions
+
+**Project Outcomes (Ongoing):**
+- Established a strong foundation for machine learning by creating models from the ground up.
+- Bridged the gap between high-level machine learning frameworks and low-level systems programming.
+- Created a scalable framework to incrementally add more complex algorithms over time.
+- Gained valuable insights into model performance, optimization techniques, and computational efficiency.
+
+**Learnings:**
+- Acquired an in-depth understanding of the mathematical principles behind machine learning algorithms.
+- Strengthened problem-solving skills through debugging and fine-tuning custom implementations.
+- Enhanced my ability to optimize models for performance by working with C.
+- Developed transferable skills applicable to real-world machine learning and software engineering projects.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/ML_From_Scratch)
+
+### Neural Network in C (PyTorch speed comparison)
 **Description:**
 I developed and trained a simple neural network (NN) to solve the XOR problem, comparing implementations in both C and Python using the PyTorch framework. The XOR problem is a classic benchmark for NNs, where the goal is to predict the output as true (1) when one input is true and the other is false, and false (0) when both inputs are either true or false.
 
@@ -169,7 +205,7 @@ The neural network architecture consists of two input nodes, three hidden layers
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/NeuralNetwork_in_C/blob/main/NeuralNetworkC.org)
 
-### Project 4: VizBeuty: Python Package for Enhanced Visualizations 
+### VizBeuty: Python Package for Enhanced Visualizations 
 **Description:**
 VizBeauty is a sophisticated Python toolkit designed to enhance data visualization and analysis. This package offers a comprehensive suite of functions tailored to meet diverse analytical needs with precision and efficiency. By integrating advanced statistical methods and customizable plotting capabilities, VizBeauty facilitates in-depth data exploration and provides valuable insights across various datasets. VizBeauty is publicly available on PyPI, making it easily accessible for all users.
 
@@ -201,7 +237,7 @@ These functions collectively empower users to perform comprehensive data analysi
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/VizBeauty-)
 
-### Project 5: Ocean Vision (Python)
+### Ocean Vision (Python)
 **Description:**
 This research project, conducted in collaboration with one of my professors and international researchers, focuses on developing a deep learning model to detect and classify plankton species from microscopic images. The objective is to automate the process of identifying various plankton types to support marine biology research and environmental monitoring.
 
@@ -232,7 +268,7 @@ This research project, conducted in collaboration with one of my professors and 
 **Code**: 
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/PlanktonResearch/NewTLPreloadedFRCNN.py)
 
-### Project 6: InsightVisualizer (Python)
+### InsightVisualizer (Python)
 **Description:**
 In this project, I explore the correlations between various socio-economic indicators such as life expectancy, GDP per capita, and happiness score across different countries using two distinct datasets: "Life expectancy.csv" and "Suicide Rate.csv". Through meticulous analysis, these datasets are merged to construct a unified view of global socio-economic dynamics, uncovering underlying patterns and correlations.
 
@@ -266,7 +302,7 @@ While the project does not draw definitive conclusions due to potential inaccura
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/InsightVisualizer/Notebook.ipynb) 
 
-### Project 7: IQ and Income: Unraveling Correlations and Thresholds (Python)
+### IQ and Income: Unraveling Correlations and Thresholds (Python)
 **Description:**
 This project focuses on exploring correlations and analyzing the statistical significance of key socio-economic variables. Specifically, it investigates the relationship between intelligence quotient (IQ) and average income, alongside the impact of education expenditure and average temperature on income levels.
 
@@ -292,7 +328,7 @@ environmental factors on income levels. These correlations underscore associatio
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/IQ-Income/notebook.ipynb)
 
-### Project 8: Movie Recommendation Engine (Python)
+### Movie Recommendation Engine (Python)
 **Description:**
 This project focuses on building a movie recommendation engine using the concept of cosine similarity. The engine suggests movies that are similar to a given movie based on features such as keywords, cast, genres, and director. By utilizing natural language processing (NLP) techniques and machine learning algorithms, the project aims to provide accurate and relevant movie recommendations.
 
@@ -315,7 +351,7 @@ Given the movie "Avatar," the engine suggests similar titles like "Aliens," "Tit
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MovieRecML/MovieRec.ipynb)
 
-### Project 9: Mapping the Adoption Patterns of Battery Electric and Plug-in Hybrid Vehicles in Urban, Suburban, and Rural Areas of Washington (Python)
+### Mapping the Adoption Patterns of Battery Electric and Plug-in Hybrid Vehicles in Urban, Suburban, and Rural Areas of Washington (Python)
 **Description:**
 This project analyzes the geographic distribution of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) in Washington State. The objective is to determine if there is a significant difference in the adoption patterns of these vehicles across urban, suburban, and rural areas. The hypothesis is that BEVs are more prevalent in urban areas, while PHEVs are more common in suburban and rural regions.
 
@@ -353,7 +389,7 @@ This project analyzes the geographic distribution of Battery Electric Vehicles (
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/tree/main/EVDistribution)
 
-### Project 10: Clustering Antarctic Penguin Species (Python)
+### Clustering Antarctic Penguin Species (Python)
 **Description:**
 This project supports a team of researchers collecting data about penguins in Antarctica. The task involved applying data science skills to identify groups in the dataset using K-means clustering. The dataset, provided by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, includes measurements such as culmen length, culmen depth, flipper length, body mass, and penguin sex. The goal was to help classify the penguins into the three native species: Adelie, Chinstrap, and Gentoo.
 
@@ -375,7 +411,7 @@ By applying K-means clustering, the project successfully classified the penguins
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AntarticPenguin/notebook.ipynb)
 
-### Project 11: Predictive Modeling for Agriculture (Python)
+### Predictive Modeling for Agriculture (Python)
 **Description:**
 This project involves building a machine learning model to help farmers select the best crops for their fields based on essential soil metrics. By analyzing the dataset containing nitrogen, phosphorous, potassium levels, and pH values, the goal is to predict the optimal crop type to maximize yield. The project addresses the challenge of multicollinearity among features to improve model accuracy.
 
@@ -399,7 +435,7 @@ This project involves building a machine learning model to help farmers select t
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/AgriculturePred/notebook.ipynb)
 
-### Project 12: Modeling Car Insurance Claim Outcomes (Python)
+### Modeling Car Insurance Claim Outcomes (Python)
 **Description:**
 This project involves building a machine learning model (Only feature importances) to predict whether a customer will make a claim on their car insurance during the policy period. The model aims to optimize pricing strategies for the insurance company and improve their prediction accuracy. The dataset includes various features such as age, gender, driving experience, education, income, credit score, and vehicle ownership status. The goal is to identify the single feature that results in the best performing model, as measured by accuracy, so they can start with a simple model in production.
 
@@ -418,7 +454,7 @@ This project involves building a machine learning model (Only feature importance
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CarModel/notebook.ipynb)
 
-### Project 13: Predicting Movie Rental Durations (Python)
+### Predicting Movie Rental Durations (Python)
 **Description:**
 This project focuses on predicting the number of days a customer will rent a DVD using various regression models. The dataset includes features such as rental and return dates, amount paid, rental rate, release year, length, replacement cost, and special features. The objective is to create a model that yields a Mean Squared Error (MSE) of 3 or less on the test set to help the DVD rental company improve inventory planning.
 
@@ -444,7 +480,7 @@ This project focuses on predicting the number of days a customer will rent a DVD
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/RentalPred/notebook.ipynb)
 
-### Project 14: Analyzing Crime in Los Angeles (Python)
+### Analyzing Crime in Los Angeles (Python)
 **Description:**
 This project analyzes crime data in Los Angeles to identify patterns and assist the LAPD in resource allocation.
 
@@ -466,7 +502,7 @@ This project analyzes crime data in Los Angeles to identify patterns and assist 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/LACrime/notebook.ipynb)
 
-### Project 15: Visualizing the History of Nobel Prizes (Python)
+### Visualizing the History of Nobel Prizes (Python)
 **Description:**
 This project focuses on analyzing data related to Nobel Prize winners. The analysis covers various aspects such as the distribution of prizes across different categories, the demographic details of the laureates, and the trends over the years. The primary goal is to uncover patterns and insights about the Nobel Prize awards.
 
@@ -488,7 +524,7 @@ This project focuses on analyzing data related to Nobel Prize winners. The analy
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NobelPrize/notebook.ipynb)
 
-### Project 16: Hypotesis Testing with Men's and Women's soccer Matches (Python)
+### Hypotesis Testing with Men's and Women's soccer Matches (Python)
 **Description:**
 This project analyzes whether more goals are scored in women's international soccer matches compared to men's. The analysis is based on official FIFA World Cup match data since January 1, 2002.
 
@@ -513,7 +549,7 @@ This project analyzes whether more goals are scored in women's international soc
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/SoccerAnalysis/notebook.ipynb)
 
-### Project 17: Exploring NYC Public School test Results Scores (Python)
+### Exploring NYC Public School test Results Scores (Python)
 **Description:**
 This project analyzes SAT scores of American high school students to identify trends and insights. The analysis focuses on the scores across different sections and explores factors that might influence performance.
 
@@ -531,7 +567,7 @@ This project analyzes SAT scores of American high school students to identify tr
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/NYCTestScore/notebook.ipynb)
 
-### Project 18: Dr. Semmelweis and the Importance of Handwashing (R)
+### Dr. Semmelweis and the Importance of Handwashing (R)
 **Description:**
 This project reanalyzes historical data to examine the impact of handwashing, as discovered by Dr. Ignaz Semmelweis, on reducing childbed fever at the Vienna General Hospital in the 1840s.
 
@@ -554,7 +590,7 @@ This project reanalyzes historical data to examine the impact of handwashing, as
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/CleanData/notebook.ipynb)
 
-### Project 19: When Was the Golden Era of Video Games? (SQL)
+### When Was the Golden Era of Video Games? (SQL)
 **Description:**
 This project analyzes video game critic and user scores, as well as sales data, for the top 400 video games released since 1977. The goal is to identify trends in game quality and sales, and to explore whether there is a "golden age" of video games.
 
@@ -575,7 +611,7 @@ This project analyzes video game critic and user scores, as well as sales data, 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/VideoGamesSQL/notebook.ipynb)
 
-### Project 20: Analyzing Students' Mental Health (SQL)
+### Analyzing Students' Mental Health (SQL)
 **Description:**
 This project analyzes mental health data from a survey of international and domestic students at a Japanese international university. The goal is to explore the impact of being an international student on mental health, social connectedness, and acculturative stress.
 
@@ -596,7 +632,7 @@ This project analyzes mental health data from a survey of international and dome
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MentalHealth/notebook.ipynb)
 
-### Project 21: Analyzing Motorcycle Part Sales
+### Analyzing Motorcycle Part Sales
 **Description:**
 This project analyzes sales data for a company selling motorcycle parts to understand wholesale revenue by product line, month, and warehouse. The analysis aims to calculate the net revenue from wholesale orders, considering the payment fees associated with different payment methods.
 
@@ -620,7 +656,7 @@ This project analyzes sales data for a company selling motorcycle parts to under
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/main/MotorCycleSQL/notebook.ipynb)
 
-### Project 22: Customer Analytics: Preparing Data for Modeling (Python)
+### Customer Analytics: Preparing Data for Modeling (Python)
 **Description:**
 This project focuses on cleaning and optimizing a large customer dataset for efficient storage and analysis. The dataset is intended for predicting whether students are looking for a new job.
 
