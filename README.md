@@ -70,6 +70,9 @@ This research provides valuable insights into how GAI is integrated into academi
 **Code for Data and statistical Analysis:**
 [View the code on GitHub](https://github.com/cris1618/Mapping-the-use-of-GAI-in-a-higher-educational-context/blob/main/AI_usage.ipynb)
 
+**Link for the full paper:**
+[Full Paper](https://www.researchgate.net/publication/390207658_GENERATIVE_AI_TOOLS_IN_HIGHER_EDUCATION_A_CASE_STUDY_OF_STUDENT_USAGE_AT_A_SMALL_LIBERAL_ARTS_COLLEGE)
+
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
 
