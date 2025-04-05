@@ -5,9 +5,9 @@ I am a passionate data science student pursuing a triple major in Mathematics, D
 
 ## Education
 ### Lyon College
-- Triple Major: Mathematics, Data Science and Computer Science
-- Minor: Business Administration
-- Expected Graduation: May 2026
+- Triple Major: Mathematics, Data Science and Computer Science.
+- Minor: Business Administration.
+- Expected Graduation: May 2026.
 - GPA: 4.0
 
 ## Research and Publications
