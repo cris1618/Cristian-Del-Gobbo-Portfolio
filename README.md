@@ -73,10 +73,31 @@ This research provides valuable insights into how GAI is integrated into academi
 **Link for the full paper:**
 [Full Paper](https://www.researchgate.net/publication/390207658_GENERATIVE_AI_TOOLS_IN_HIGHER_EDUCATION_A_CASE_STUDY_OF_STUDENT_USAGE_AT_A_SMALL_LIBERAL_ARTS_COLLEGE)
 
-### Synthetic Data Generation Open-source Python Libraries Comparison: SDV and Synthicity
+### Synthetic Data Generation Open-source Python Libraries Comparison: SDV and Synthicity (Publication process, First Author)
+**Description:**
+This research compares the performance of two widely used open-source Python packages for tabular synthetic data generation: SDV and Synthicity. The study evaluates six models (three from each package) in terms of their ability to generate statistically and predictively accurate synthetic datasets from a real-world energy consumption dataset. The goal is to assess each package’s effectiveness in low-data and high-expansion scenarios.
+
+**Key Components:**
+
+- *Dataset Selection:* Used a publicly available dataset from the UCI repository, containing energy usage and environmental features. Only 1,000 real rows were used to simulate low-data conditions and test synthetic data scalability.
+
+- *Synthetic Generation Settings:* Conducted two experiments: a 1:1 experiment (models generate 1,000 rows from 1,000 real rows) and a 1:10 experiment (models generate 10,000 synthetic rows from 1,000 real rows).
+
+- *Statistical Evaluation:* Developed a custom scoring function that compares real and synthetic data column-by-column using summary statistics (mean, median, mode, std), and distributional tests (Kolmogorov–Smirnov, Wasserstein distance). Scores ranged from 0 to 100 for interpretability.
+
+- *Predictive Utility Assessment:* Applied a Train-on-Synthetic, Test-on-Real (TSTR) framework using four regression models (XGBRegressor, Random Forest, SVR, and Linear Regression). A custom performance score was computed by comparing the synthetic-trained model’s MAE, MSE, and R² against real-trained models.
+
+**Significance:**
+This project provides an in-depth evaluation of how different synthetic data models perform under constrained data settings. Results show that statistical models (e.g., Bayesian Network, Gaussian Copula) perform better when data is scarce (1:1), while deep learning models (like TVAE) generalize better when asked to generate more data (1:10). Additionally, it highlights that implementations of the same model (e.g., CTGAN, TVAE) can vary significantly across libraries, and that SDV offers better usability and documentation for applied research scenarios.
 
 *Synthetic Data Generators Predictive Utility (1:1 Experiment)*
 ![Research 4 Visualization](Asset/1_1_performances.png)
+
+**Code for Data and Analysis:**
+[View the code on GitHub](https://github.com/cris1618/syntheticData/blob/main/generate_synthetic_data.ipynb)
+
+**Link to Paper Draft:**
+[Paper Draft](https://github.com/cris1618/syntheticData/blob/main/Paper/Paper%20Draft.docx)
 
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
