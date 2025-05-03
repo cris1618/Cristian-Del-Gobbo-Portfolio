@@ -73,6 +73,11 @@ This research provides valuable insights into how GAI is integrated into academi
 **Link for the full paper:**
 [Full Paper](https://www.researchgate.net/publication/390207658_GENERATIVE_AI_TOOLS_IN_HIGHER_EDUCATION_A_CASE_STUDY_OF_STUDENT_USAGE_AT_A_SMALL_LIBERAL_ARTS_COLLEGE)
 
+### Synthetic Data Generation Open-source Python Libraries Comparison: SDV and Synthicity
+
+*Synthetic Data Generators Predictive Utility (1:1 Experiment)*
+![Research 4 Visualization](Asset/1_1_performances.png)
+
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
 
