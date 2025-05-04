@@ -104,6 +104,17 @@ This project provides an in-depth evaluation of how different synthetic data mod
 **IN PROGRESS...**
 [GitHub Repository](https://github.com/cris1618/KAN_CTGAN)
 
+### Quantitative study of microbe-interaction with micro- and nano-structures (INBRE 2025 Research Fellowship, in progress)
+**General Description (a more detailed description will be given at the end of the program):**
+The Wang Laboratory aims to develop and use innovative biophysical tools and advanced imaging tools to solve biomedical and environmental problems by understanding the interactions of microbes (e.g., bacteria) with various structures at micro and nano scales. Quantitative data analysis based on computer vision, machine learning, and deep learning algorithms, as well as computational modeling are also exploited. Projects include, but not limited to, (1) cellular and molecular interactions of bacteria with metal nanoparticles and nanowires, (2) navigation of microbes through porous media and micro-scale mazes, and (3) controlling of microbes with electromagnetic fields.
+
+**IN PROGRESS...**
+
+### Graph-Driven Maze Navigation with a Raspberry Pi Boe-Bot: A Simulation-to-Hardware Approach (In progress)
+
+**IN PROGRESS...**
+[GitHub Repository](https://github.com/cris1618/MazeBot)
+
 
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
