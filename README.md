@@ -119,6 +119,43 @@ The Wang Laboratory aims to develop and use innovative biophysical tools and adv
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
 
+### EcoWatt App: Consumption Forecast & Advice (Python, React, JavaScript, CSS, HTML)
+**Description:**
+In this project, I developed EcoWatt App, a full-stack web application that predicts a household’s monthly energy consumption and delivers personalized, AI-powered suggestions to reduce usage and save money. Built with a React frontend and FastAPI backend, the app guides users through a simple multi-step input wizard, runs real-time predictions via an XGBoost model, and then leverages the OpenAI API to generate three concise, actionable energy-saving tips—complete with a rough dollar-savings estimate. I’m currently collaborating with students from the business department to prepare the app for commercialization, defining go-to-market strategies and conducting pilot user studies.
+
+**Key Features:**
+- *Accurate Consumption Forecasts:* Uses a pretrained XGBoost model to estimate monthly kWh usage based on home size, occupants, season, heating, and cooling types.
+
+- *AI-Driven Recommendations:* Integrates with the OpenAI ChatGPT API to generate tailored saving tips and cost-savings estimates.
+
+- *Interactive Data Wizard:* A multi-step React wizard with image preloading and crossfade transitions for a smooth, engaging user experience.
+
+- *Responsive & Accessible UI:* Designed with mobile-first principles and WCAG-compliant styling for broad audience reach.
+
+- *CORS-Enabled FastAPI Backend:* Securely handles prediction and suggestion endpoints, ready for containerized deployment.
+
+**Technologies Used:**
+- *Frontend:* React, react-step-wizard, CSS Modules
+- *Backend:* FastAPI, Uvicorn, Pydantic, CORS Middleware
+- *ML & AI:* Python, XGBoost, Scikit-Learn, MinMaxScaler, OpenAI GPT-3.5-Turbo
+- *DevOps & Deployment:* Docker (in progress), environment-based configuration, CI/CD readiness
+
+**Project Outcomes:**
+- *High Prediction Accuracy:* Achieved <5% error on test sets for monthly consumption forecasts.
+- *Commercialization Roadmap:* Defined pricing tiers, partnership channels, and marketing materials in collaboration with business students.
+
+**Learnings:**
+- Mastered end-to-end integration of ML models in production-style APIs.
+- Optimized frontend performance through asset preloading and GPU-accelerated CSS transitions.
+- Gained hands-on experience working cross-functionally on product commercialization and market validation.
+- Refined best practices for environment-based configuration and secure CORS setup.
+
+**GitHub Repository:**
+*NOTE*: The code in this repository hasn’t been updated since integrating the OpenAI API and therefore 
+no longer reflects the latest version of the application. Consequently, it is significantly behind the 
+final release.
+[View the code on GitHub](https://github.com/cris1618/Electric_Consumption_Model)
+
 ### GPT-2 Local Replication (Python)
 **Description:**
 In this project, I replicated a GPT-2 model following the detailed instructions provided by Andrej Karpathy in one of his [tutorial videos](https://youtu.be/l8pRSuU81PU?si=aH1r8OYISL3pokbB). The primary objective was to understand and implement a GPT-2 model locally, focusing on text generation tasks.
@@ -183,6 +220,36 @@ To enhance the precision of the model, I utilized the TikToken encoding method i
 
 **Code:**
 [View the code on GitHub](https://github.com/cris1618/Projects-Code/blob/44cc270434af585f9141b71d5ff38e590beb14e1/NanoGPT/ShakeTikToken.py)
+
+### OrbitOCR: Embedded Satellite Digit Recognition (Python)
+**Description:**
+Collaborating with Dr. Birkenkrahe, I helped deliver a precision OCR pipeline for a client’s space-borne imaging system. The goal was to read mechanical counter digits captured by a satellite and convert them into exact numeric readings. Because this solution runs on a Raspberry Pi Zero W 2 (quad-core ARM, 512 MB RAM), every step—from auto-cropping to final post-processing—was optimized for speed, memory efficiency, and ultra-high accuracy.
+
+**Key Features:**
+- *Adaptive Preprocessing Pipeline:* Grayscale conversion, conditional inversion, Gaussian/median filtering, morphological opening, and contrast adjustment to maximize Tesseract accuracy under variable lighting.
+- *Heuristic Post-Processing:* Confidence thresholds, digit-level filtering, and position-based corrections (e.g., forcing the first digit from “9” to “2” when statistically justified).
+- *Robust CLI Interface & Logging:* Command-line inputs/outputs in CSV format, error handling, and detailed logging for end-to-end traceability.
+
+**Technologies Used:**
+- *Languages & Libraries:* Python, Pillow, OpenCV, pytesseract
+- *Embedded Platform:* Raspberry Pi Zero W 2 (ARM Cortex-A53, 512 MB)
+- *OCR Engine:* Tesseract with custom PSM and whitelist configurations
+- *Data Handling:* CSV I/O, multiprocessing, garbage collection optimizations
+- *Dev Tools:* VS Code (WSL) Remote-SSH for on-device debugging
+
+**Project Outcomes:**
+- Achieved over 88.7 % digit-level accuracy on an initial 1 500-image validation set.
+- Reduced per-image processing time to under 150 ms, enabling real-time batch throughput on a Pi Zero W 2.
+- Delivered a turnkey CLI tool and documented pipeline, ready for integration into the client’s automated meter-reading system.
+
+**Learnings:**
+- Designed and tuned image preprocessing strategies to handle extreme contrasts and sensor noise from orbital imaging.
+- Balanced OCR accuracy against memory constraints, applying morphological operations and selective blurring for optimal results.
+- Implemented position-based correction heuristics grounded in domain-specific statistics to further boost reliability.
+- Gained hands-on experience deploying and profiling Python-based computer vision code on resource-limited hardware.
+
+**Code:**
+[View the code on GitHub](https://github.com/cris1618/Image-to-num/tree/main/image-to-number)
 
 ### ML From Scratch (Python and C)
 **Description:**
