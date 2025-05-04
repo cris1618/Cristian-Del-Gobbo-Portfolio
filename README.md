@@ -101,7 +101,9 @@ This project provides an in-depth evaluation of how different synthetic data mod
 
 ### KAN-CTGAN: A Kolmogorov–Arnold Network–Enhanced Conditional Tabular Generative Adversarial Architecture (Undergaduate Thesis, in progress)
 
-**IN PROGRESS**
+**IN PROGRESS...**
+[GitHub Repository](https://github.com/cris1618/KAN_CTGAN)
+
 
 ## Projects
 *Note:* Projects are ranked by importance and difficulty (Not exactly, but it's a good rule of thumb). Therefore, the most relevant and challenging projects are listed within the first 10 positions.
