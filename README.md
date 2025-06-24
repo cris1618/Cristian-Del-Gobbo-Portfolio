@@ -96,8 +96,8 @@ This project provides an in-depth evaluation of how different synthetic data mod
 **Code for Data and Analysis:**
 [View the code on GitHub](https://github.com/cris1618/syntheticData/blob/main/generate_synthetic_data.ipynb)
 
-**Link to Paper Draft:**
-[Paper Draft](https://github.com/cris1618/syntheticData/blob/main/Paper/Paper%20Draft.docx)
+**Link to ArXiv paper:**
+[ArXiv DOI](https://doi.org/10.48550/arXiv.2506.17847)
 
 ### KAN-CTGAN: A Kolmogorov–Arnold Network–Enhanced Conditional Tabular Generative Adversarial Architecture (Undergaduate Thesis, in progress)
 
