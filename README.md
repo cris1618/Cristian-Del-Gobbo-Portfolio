@@ -104,9 +104,33 @@ This project provides an in-depth evaluation of how different synthetic data mod
 **IN PROGRESS...**
 [GitHub Repository](https://github.com/cris1618/KAN_CTGAN)
 
-### Quantitative study of microbe-interaction with micro- and nano-structures (INBRE 2025 Research Fellowship, in progress)
-**General Description (a more detailed description will be given at the end of the program):**
-The Wang Laboratory aims to develop and use innovative biophysical tools and advanced imaging tools to solve biomedical and environmental problems by understanding the interactions of microbes (e.g., bacteria) with various structures at micro and nano scales. Quantitative data analysis based on computer vision, machine learning, and deep learning algorithms, as well as computational modeling are also exploited. Projects include, but not limited to, (1) cellular and molecular interactions of bacteria with metal nanoparticles and nanowires, (2) navigation of microbes through porous media and micro-scale mazes, and (3) controlling of microbes with electromagnetic fields.
+### Deep Learning for Segmentation and Classification of Bacterial Flagella in Microscopy Images (INBRE Research Internship, Authorship TBD)
+**Description:**
+This research focuses on developing a deep learning pipeline for the automated analysis of bacterial flagella in fluorescence microscopy images. The project aims to segment individual flagella and classify them according to their morphology (smooth, kinked, or looped) and bundling state (bundled or unbundled). The long-term goal is to support biomedical research into flagellar motility, which plays a critical role in bacterial colonization and pathogenicity.
+
+**Key Components:**
+- *Segmentation Model*: Implemented a U-Net architecture with a ResNet50 encoder pretrained on ImageNet to segment flagella from raw microscopy images. The model achieved adequate performance with an F1-score of 0.81 and a Recall of 0.85.
+
+- *Classification Pipeline*: Designed a second-stage classifier to analyze segmented flagella regions. The model classifies each detected flagellum based on its morphology and bundling. Despite modest performance (Macro F1 ≈ 0.70), results were promising considering labeling noise and limited annotation expertise.
+
+- *Evaluation and Visualization*: Used standard metrics (Precision, Recall, F1, mAP) for model assessment. Developed image-based visualizations to compare raw inputs, target masks, and predicted outputs.
+
+- *Web Deployment*: Built a user-friendly web application that allows non-technical users to upload microscopy images and receive model predictions in a few clicks. This aids biological researchers without coding expertise.
+
+**Significance:**
+Flagellar dynamics are a growing research area in microbiology due to their role in infection initiation and tissue colonization. Automating flagella analysis accelerates insights into bacterial motility mechanisms, and could eventually support drug development efforts targeting motility rather than viability. This project also demonstrates the feasibility of deploying deep learning in real biological workflows, from pixel-level segmentation to morphological classification.
+
+*Raw images, ground truth masks, and predicted segmentation masks from the test set.*
+![Research 5 Visualization](Asset/cropped-Raw_Target_Predicted.png)
+
+**Code:**
+Private until publication.
+
+**Link to paper:**
+Will be made available upon publication.
+
+**Poster Presentation:**
+Presented at the 12th Annual Arkansas Summer Undergraduate Research Symposium, July 2025.
 
 **IN PROGRESS...**
 
