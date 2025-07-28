@@ -1,7 +1,7 @@
 # Cristian Del Gobbo Portfolio
 
 ## About Me
-I'm a curious student who’s always excited to learn something new. I'm currently pursuing a triple major in Mathematics, Data Science & Computer Science with a minor in Business Administration. My academic and professional journey has equipped me with a strong foundation in analytical thinking, problem-solving, and technical expertise.
+I'm a curious student who’s always excited to learn something new. I'm currently pursuing a triple major in Mathematics, Data Science & Computer Science with a minor in Business Administration. My academic and professional journey has equipped me with a strong foundation in analytical thinking, problem-solving, and technical expertise..
 
 ## Education
 ### Lyon College
