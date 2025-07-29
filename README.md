@@ -73,6 +73,9 @@ This research provides valuable insights into how GAI is integrated into academi
 **Link for the full paper:**
 [Full Paper](https://www.researchgate.net/publication/390207658_GENERATIVE_AI_TOOLS_IN_HIGHER_EDUCATION_A_CASE_STUDY_OF_STUDENT_USAGE_AT_A_SMALL_LIBERAL_ARTS_COLLEGE)
 
+**Poster Presentation:**
+Presented at the National Cobference for Undergraduate Research 2025 (NCUR).
+
 ### Synthetic Data Generation Open-source Python Libraries Comparison: SDV and Synthicity (Publication process, First Author)
 **Description:**
 This research compares the performance of two widely used open-source Python packages for tabular synthetic data generation: SDV and Synthicity. The study evaluates six models (three from each package) in terms of their ability to generate statistically and predictively accurate synthetic datasets from a real-world energy consumption dataset. The goal is to assess each package’s effectiveness in low-data and high-expansion scenarios.
@@ -99,7 +102,7 @@ This project provides an in-depth evaluation of how different synthetic data mod
 **Link to ArXiv paper:**
 [ArXiv DOI](https://doi.org/10.48550/arXiv.2506.17847)
 
-### KAN-CTGAN: A Kolmogorov–Arnold Network–Enhanced Conditional Tabular Generative Adversarial Architecture (Undergaduate Thesis, in progress)
+### KAN-CTGAN: A Kolmogorov–Arnold Network–Enhanced Conditional Tabular Generative Adversarial Architecture (Undergraduate Thesis, in progress)
 
 **IN PROGRESS...**
 [GitHub Repository](https://github.com/cris1618/KAN_CTGAN)
