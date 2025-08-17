@@ -1,5 +1,5 @@
 <title>Cristian Del Gobbo – Data Science Portfolio</title>
-<meta name="description" content="Portfolio of Cristian Del Gobbo showcasing projects in synthetic data, machine learning, and software development.">
+<meta name="description" content="Portfolio of Cristian Del Gobbo showcasing projects in Data Science, machine learning, and software development.">
 
 # Cristian Del Gobbo Portfolio
 
