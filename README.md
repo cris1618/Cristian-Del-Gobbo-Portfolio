@@ -102,10 +102,42 @@ This project provides an in-depth evaluation of how different synthetic data mod
 **Link to ArXiv paper:**
 [ArXiv DOI](https://doi.org/10.48550/arXiv.2506.17847)
 
-### KAN-CTGAN: A Kolmogorov–Arnold Network–Enhanced Conditional Tabular Generative Adversarial Architecture (Undergraduate Thesis, in progress)
+### Kolmogorov–Arnold Networks for Tabular Data Synthesis (Undergraduate Thesis & PyPI Package)
+**Description:**
+This project introduces a novel approach to synthetic tabular data generation by integrating **Kolmogorov–Arnold Networks (KANs)** into existing generative models. It extends the [Synthetic Data Vault (SDV)](https://github.com/sdv-dev/CTGAN)'s popular **CTGAN** and **TVAE** architectures by replacing their multilayer perceptrons (MLPs) with spline-based KAN layers to better capture complex nonlinear feature interactions.
 
-**IN PROGRESS...**
-[GitHub Repository](https://github.com/cris1618/KAN_CTGAN)
+The primary goal was to assess whether KAN-enhanced architectures can improve the **statistical fidelity** and **predictive utility** of synthetic tabular data under standard benchmarking conditions. The result is a complete open-source Python package: **KAN-synth**, now available on [PyPI](https://pypi.org/project/KAN-synth/) and [GitHub](https://github.com/cris1618/KAN_synth).
+
+**Key Components:**
+
+- *Model Variants Implemented:* Six custom generative models were developed by replacing either the generator, discriminator, or both in CTGAN/TVAE with KAN blocks. These include:
+  - `KAN_CTGAN`
+  - `HYBRID_KAN_CTGAN`
+  - `Disc_KAN_CTGAN`
+  - `Gen_KAN_CTGAN`
+  - `KAN_TVAE`
+  - `HYBRID_KAN_TVAE`
+
+- *PyTorch + Spline-based KAN Layers:* Each KAN layer utilizes learnable spline basis functions, configurable grid sizes, and orders.
+
+- *Training & Evaluation Pipeline:* The models were trained on tabular datasets using both statistical measures (e.g., KS test, Wasserstein distance) and machine learning utility metrics via Train-on-Synthetic-Test-on-Real (TSTR) with classification and regression benchmarks.
+
+- *Software Engineering:* All models were organized in a production-ready Python package with full PyPI support, a `README`, usage examples, testing suite (`pytest`), and modular structure (`src/KAN_synth`).
+
+**Significance:**
+This research contributes the first KAN-based generative models for tabular data synthesis and demonstrates the viability of replacing dense MLP layers with spline-driven functional approximators in structured data scenarios. The modularity of the implementation allows for easy future experimentation and integration into other SDV-like frameworks.
+
+**PyPI Package:**
+[![PyPI](https://img.shields.io/pypi/v/KAN-synth?color=orange&label=PyPI)](https://pypi.org/project/KAN-synth/)  
+```bash
+pip install KAN-synth
+```
+
+**Code & Documentation:**
+[View the full code on GitHub](https://github.com/cris1618/KAN_synth)
+
+**Thesis Link:**
+*Coming soon*
 
 ### Deep Learning for Segmentation and Classification of Bacterial Flagella in Microscopy Images (INBRE Research Internship, Authorship TBD)
 **Description:**
