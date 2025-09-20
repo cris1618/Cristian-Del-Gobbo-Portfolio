@@ -9,7 +9,6 @@ I'm a curious student who’s always excited to learn something new. I'm current
 ## Education
 ### Lyon College
 - Triple Major: Mathematics, Data Science and Computer Science.
-- Minor: Business Administration.
 - Expected Graduation: May 2026.
 - GPA: 4.0
 
