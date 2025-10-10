@@ -138,8 +138,8 @@ pip install KAN-synth
 **Code & Documentation:**
 [View the full code on GitHub](https://github.com/cris1618/KAN_synth)
 
-**Thesis Link:**
-*Coming soon*
+**Thesis Link (First Draft):**
+[Full thesis on Zenodo](https://zenodo.org/records/17137392)
 
 ### Deep Learning for Segmentation and Classification of Bacterial Flagella in Microscopy Images (INBRE Research Internship, Authorship TBD)
 **Description:**
